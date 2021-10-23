@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.main-content{
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-single{
+    width: 25%;
+    min-height: 200px;
+    background-color: #ccc;
+    text-align: center;
+    padding-top: 90px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.opacity{
+    background-color: green;
+    color: green
+}
